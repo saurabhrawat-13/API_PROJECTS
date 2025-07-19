@@ -1,0 +1,14 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif, "Poppins";
+}
+
+
+.app{
+  min-height: 100vh;
+  display: grid;
+  /* background-image: url('./assets/light-bokeh.jpg'); */
+  background-color: #e2d4ff;
+}
